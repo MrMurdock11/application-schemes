@@ -1,2 +1,2 @@
 # application-schemes
-Repository where stores schemes of projects.
+Repository where stores schemes of applications.
